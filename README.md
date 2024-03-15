@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @jean-alexandre-galeazzi
-- 👀 I’m interested in 
+- 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Bash Scripting !
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jean-alexandre.galeazzi@laplateforme.io
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He / him
 
 <!---
 jean-alexandre-galeazzi/jean-alexandre-galeazzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
