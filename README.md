@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jean-alexandre-galeazzi
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Bash Scripting !
-- 📫 How to reach me jean-alexandre.galeazzi@laplateforme.io
+- 📫 How to reach me : jean-alexandre.galeazzi@laplateforme.io
 - 😄 Pronouns: He / him
 
 <!---
