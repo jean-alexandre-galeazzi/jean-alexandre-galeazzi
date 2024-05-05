@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @jean-alexandre-galeazzi
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Bash Scripting !
-- 📫 How to reach me : jean-alexandre.galeazzi@laplateforme.io
-- 😄 Pronouns: He / him
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gmail,windows,debian,linkedin,bash,discord,html,css,grafana,instagram,linux,raspberrypi,twitter,vscode,wordpress" />
+  </a>
+</p>
+
 
 <!---
 jean-alexandre-galeazzi/jean-alexandre-galeazzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
